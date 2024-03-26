@@ -1,0 +1,25 @@
+h1,p,h2{
+    text-align:center;
+}
+
+.menu{
+    background-color: burlywood;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tipos_de_cafe{
+    text-align: left;
+    width: 70%;
+}
+
+.preco{
+    text-align: right;
+    width: 30%;
+}
+
+.item p{
+    display: inline-block;
+    
+}
