@@ -1,2 +1,2 @@
-# LMW
+# LMW - Cardapio
 Linguagens de Marcação WEB
